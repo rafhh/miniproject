@@ -1,0 +1,35 @@
+.color{
+    color:rgb(217, 230, 48); 
+    font-weight: bold; 
+    font-size: 20px;
+    background-color: cornflowerblue;
+}
+body{
+    background-color: burlywood;
+    color: blue;
+    background-image: URL("/images/wallpaper.jpg");
+    background-size: cover;
+    margin: 0; padding: 0;
+}
+p{
+    font-weight: bold !important;
+}
+
+#footer {
+    min-width:100%;
+    background: green; 
+    display: flex;
+
+}
+
+#footer p {
+    text-align: center;
+    background: red;
+    width: 100%;
+    
+}
+
+#footer p a {
+    color: darkcyan;
+}
+
