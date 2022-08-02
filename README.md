@@ -1,4 +1,4 @@
-# Miniproject
+# Miniproject 🍳
 
 A mini project that I did while undergoing the SHRDC short programme. I develop web application for online registration system using Microsoft Visual Studio Code.
 
