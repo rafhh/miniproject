@@ -7,4 +7,4 @@ A mini project that I did while undergoing the SHRDC short programme. I develop 
 
 ### Web Application Development Interface
 
-<img src="Images/HomepageLogin.png" width="100">
+<img src="Images/HomepageLogin.png" width="900">
